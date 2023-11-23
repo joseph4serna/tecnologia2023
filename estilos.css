@@ -247,5 +247,49 @@
                             background-image: url("energiahidraulica.png");
                             
                             }                       
-                        
+                            .energiaeolica{
+        
+         
+        
+                                background-repeat: no-repeat;
+                                
+                                float:right;
+                                
+                                height: 650px;
+                                
+                                width: 600px;
+                                
+                                margin-left: 5px;
+                                
+                                margin-right:5px;
+                                
+                                background-image: url("energia\ eolica.png");
+                                
+                                }                       
+                                .energiabiomasa{
+        
+         
+        
+                                    background-repeat: no-repeat;
+                                    
+                                    float:right;
+                                    
+                                    height: 650px;
+                                    
+                                    width: 600px;
+                                    
+                                    margin-left: 5px;
+                                    
+                                    margin-right:5px;
+                                    
+                                    background-image: url("energiabiomasa.png");
+                                    
+                                    }                       
+                
             
+
+
+
+
+
+
