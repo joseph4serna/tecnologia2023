@@ -207,3 +207,45 @@
                     
                     
                     }
+
+
+                    .energiasolar{
+        
+         
+        
+                        background-repeat: no-repeat;
+                        
+                        float:right;
+                        
+                        height: 450px;
+                        
+                        width: 550px;
+                        
+                        margin-left: 5px;
+                        
+                        margin-right:5px;
+                        
+                        background-image: url("energia-solar.pneg.jpg");
+                        
+                        }
+                        .energiahidraulica{
+        
+         
+        
+                            background-repeat: no-repeat;
+                            
+                            float:right;
+                            
+                            height: 650px;
+                            
+                            width: 600px;
+                            
+                            margin-left: 5px;
+                            
+                            margin-right:5px;
+                            
+                            background-image: url("energiahidraulica.png");
+                            
+                            }                       
+                        
+            
